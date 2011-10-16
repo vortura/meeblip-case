@@ -36,7 +36,8 @@
      inkscape:window-height="1042"
      inkscape:window-x="57"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:snap-global="true">
     <sodipodi:guide
        orientation="0,1"
        position="526.1811,372.04724"
@@ -77,6 +78,29 @@
        orientation="1,0"
        position="806.10237,489"
        id="guide3022" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="502,586.41732"
+       id="guide3024" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="147,157.67716"
+       id="guide3026" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3028"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="235.62992,490"
+       id="guide3030" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="816.73229,489"
+       id="guide3032" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
